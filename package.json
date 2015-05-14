@@ -9,12 +9,9 @@
   "author": "Lloyd Cotten",
   "license": "MIT",
   "dependencies": {
-    "async": "~0.2"
-  },
-  "optionalDependencies": {
+    "async": "~0.2",
     "aws-sdk": "~2.1.27",
-    "amqp": "~0.2.4",
-    "zmq": "~2.4.0"
+    "amqp": "~0.2.4"
   },
   "repository": {
     "type": "git",

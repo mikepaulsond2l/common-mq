@@ -5,11 +5,11 @@ common-mq is an abstracted message queue client module with a clean, common API 
 ## Provider Support
 
 common-mq supports the following message queue providers 
-* AMQP [TODO]
-* STOMP [TODO]
-* RabbitMQ [TODO]
-* �MQ [TODO]
 * Amazon AWS SQS
+* AMQP
+* RabbitMQ
+* 0MQ [TODO]
+* STOMP [TODO]
     
 ## Installation
 
